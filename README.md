@@ -1,5 +1,7 @@
 # remarkable-layers
 
+This is a fork from [this one](https://github.com/bsdz/remarkable-layers/edit/master/README.md) to make it work fully offline - without Remarkable Cloud as a middleman.
+Currently unstable, expect bugs! 
 Python module for reading and writing Remarkable Lines files (*.rm).
 
 Currently only supports version 5 of Remarkable Lines files.
